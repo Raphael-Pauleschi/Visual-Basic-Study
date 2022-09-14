@@ -1,0 +1,12 @@
+C:\Users\dti\source\repos\Conta_Poupanca\Conta_Poupanca\bin\Debug\Conta_Poupanca.exe.config
+C:\Users\dti\source\repos\Conta_Poupanca\Conta_Poupanca\bin\Debug\Conta_Poupanca.exe
+C:\Users\dti\source\repos\Conta_Poupanca\Conta_Poupanca\bin\Debug\Conta_Poupanca.pdb
+C:\Users\dti\source\repos\Conta_Poupanca\Conta_Poupanca\bin\Debug\Conta_Poupanca.xml
+C:\Users\dti\source\repos\Conta_Poupanca\Conta_Poupanca\obj\Debug\Conta_Poupanca.vbproj.AssemblyReference.cache
+C:\Users\dti\source\repos\Conta_Poupanca\Conta_Poupanca\obj\Debug\Conta_Poupanca.Form1.resources
+C:\Users\dti\source\repos\Conta_Poupanca\Conta_Poupanca\obj\Debug\Conta_Poupanca.Resources.resources
+C:\Users\dti\source\repos\Conta_Poupanca\Conta_Poupanca\obj\Debug\Conta_Poupanca.vbproj.GenerateResource.cache
+C:\Users\dti\source\repos\Conta_Poupanca\Conta_Poupanca\obj\Debug\Conta_Poupanca.vbproj.CoreCompileInputs.cache
+C:\Users\dti\source\repos\Conta_Poupanca\Conta_Poupanca\obj\Debug\Conta_Poupanca.exe
+C:\Users\dti\source\repos\Conta_Poupanca\Conta_Poupanca\obj\Debug\Conta_Poupanca.xml
+C:\Users\dti\source\repos\Conta_Poupanca\Conta_Poupanca\obj\Debug\Conta_Poupanca.pdb
