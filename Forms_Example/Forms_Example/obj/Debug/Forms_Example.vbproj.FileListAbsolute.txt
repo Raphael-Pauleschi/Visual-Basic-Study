@@ -1,0 +1,12 @@
+C:\Users\dti\source\repos\Forms_Example\Forms_Example\bin\Debug\Forms_Example.exe.config
+C:\Users\dti\source\repos\Forms_Example\Forms_Example\bin\Debug\Forms_Example.exe
+C:\Users\dti\source\repos\Forms_Example\Forms_Example\bin\Debug\Forms_Example.pdb
+C:\Users\dti\source\repos\Forms_Example\Forms_Example\bin\Debug\Forms_Example.xml
+C:\Users\dti\source\repos\Forms_Example\Forms_Example\obj\Debug\Forms_Example.vbproj.AssemblyReference.cache
+C:\Users\dti\source\repos\Forms_Example\Forms_Example\obj\Debug\Forms_Example.Form1.resources
+C:\Users\dti\source\repos\Forms_Example\Forms_Example\obj\Debug\Forms_Example.Resources.resources
+C:\Users\dti\source\repos\Forms_Example\Forms_Example\obj\Debug\Forms_Example.vbproj.GenerateResource.cache
+C:\Users\dti\source\repos\Forms_Example\Forms_Example\obj\Debug\Forms_Example.vbproj.CoreCompileInputs.cache
+C:\Users\dti\source\repos\Forms_Example\Forms_Example\obj\Debug\Forms_Example.exe
+C:\Users\dti\source\repos\Forms_Example\Forms_Example\obj\Debug\Forms_Example.xml
+C:\Users\dti\source\repos\Forms_Example\Forms_Example\obj\Debug\Forms_Example.pdb

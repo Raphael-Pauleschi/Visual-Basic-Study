@@ -1,0 +1,11 @@
+C:\Users\dti\source\repos\Comparar_Dados\Comparar_Dados\bin\Debug\Comparar_Dados.exe.config
+C:\Users\dti\source\repos\Comparar_Dados\Comparar_Dados\bin\Debug\Comparar_Dados.exe
+C:\Users\dti\source\repos\Comparar_Dados\Comparar_Dados\bin\Debug\Comparar_Dados.pdb
+C:\Users\dti\source\repos\Comparar_Dados\Comparar_Dados\bin\Debug\Comparar_Dados.xml
+C:\Users\dti\source\repos\Comparar_Dados\Comparar_Dados\obj\Debug\Comparar_Dados.Form1.resources
+C:\Users\dti\source\repos\Comparar_Dados\Comparar_Dados\obj\Debug\Comparar_Dados.Resources.resources
+C:\Users\dti\source\repos\Comparar_Dados\Comparar_Dados\obj\Debug\Comparar_Dados.vbproj.GenerateResource.cache
+C:\Users\dti\source\repos\Comparar_Dados\Comparar_Dados\obj\Debug\Comparar_Dados.vbproj.CoreCompileInputs.cache
+C:\Users\dti\source\repos\Comparar_Dados\Comparar_Dados\obj\Debug\Comparar_Dados.exe
+C:\Users\dti\source\repos\Comparar_Dados\Comparar_Dados\obj\Debug\Comparar_Dados.xml
+C:\Users\dti\source\repos\Comparar_Dados\Comparar_Dados\obj\Debug\Comparar_Dados.pdb
