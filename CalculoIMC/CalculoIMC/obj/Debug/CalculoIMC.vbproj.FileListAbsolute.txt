@@ -1,0 +1,12 @@
+C:\Users\dti\source\repos\CalculoIMC\CalculoIMC\bin\Debug\CalculoIMC.exe.config
+C:\Users\dti\source\repos\CalculoIMC\CalculoIMC\bin\Debug\CalculoIMC.exe
+C:\Users\dti\source\repos\CalculoIMC\CalculoIMC\bin\Debug\CalculoIMC.pdb
+C:\Users\dti\source\repos\CalculoIMC\CalculoIMC\bin\Debug\CalculoIMC.xml
+C:\Users\dti\source\repos\CalculoIMC\CalculoIMC\obj\Debug\CalculoIMC.Form1.resources
+C:\Users\dti\source\repos\CalculoIMC\CalculoIMC\obj\Debug\CalculoIMC.Resources.resources
+C:\Users\dti\source\repos\CalculoIMC\CalculoIMC\obj\Debug\CalculoIMC.vbproj.GenerateResource.cache
+C:\Users\dti\source\repos\CalculoIMC\CalculoIMC\obj\Debug\CalculoIMC.vbproj.CoreCompileInputs.cache
+C:\Users\dti\source\repos\CalculoIMC\CalculoIMC\obj\Debug\CalculoIMC.exe
+C:\Users\dti\source\repos\CalculoIMC\CalculoIMC\obj\Debug\CalculoIMC.xml
+C:\Users\dti\source\repos\CalculoIMC\CalculoIMC\obj\Debug\CalculoIMC.pdb
+C:\Users\dti\source\repos\CalculoIMC\CalculoIMC\obj\Debug\CalculoIMC.vbproj.AssemblyReference.cache
